@@ -1,0 +1,27 @@
+.bar {
+    fill: #e3941d;
+}
+
+.line {
+    fill: none;
+    stroke: #e3941d;
+    stroke-width: 3px;
+}
+
+.tick line {
+    stroke: #eee;
+}
+
+.tick text {
+    fill: #eee;
+}
+
+.domain {
+    stroke: #eee;
+}
+
+/*.media {*/
+/*    margin: 30px 10px;*/
+/*    width: 630px;*/
+/*    height: 450px;*/
+/*}*/
